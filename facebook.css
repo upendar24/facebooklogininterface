@@ -1,0 +1,107 @@
+ body{
+   background-color: antiquewhite;
+ }
+ 
+ 
+ 
+ #facebook{
+    position: absolute;
+    top: 12vw;
+    margin-left: 18%;
+    color: rgb(6, 125, 245);
+    font-size: 3vw;
+    font-weight: 50px;
+    font-family:sans-serif;
+    font: 50px weight;
+ }
+ #facebook1{
+    position: absolute;
+    top: 17vw;
+    left: 16vw;
+    color: rgb(13, 21, 22);
+    font-size: 1.5vw;
+    font-family: normal;
+
+ }
+ /* main{
+    position: absolute;
+    top: 25%;
+    right: 25%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+ } */
+ #box{
+    position: absolute;
+    top: 25%;
+    right: 25%;
+    border: 5px solid rgb(255, 255, 255);
+    box-shadow: 5px 5px 5px rgb(255, 255,255);
+    border-radius: 5px;
+    height: 350px;
+    width: 400px;
+    background-color: rgb(255, 255, 255);
+
+ }
+ .text{
+    border-radius: 10px;
+    height: 50px;
+    width: 350px;
+    margin-left: 20px;
+    margin-top: 10px;
+    text-align: center;
+ }
+ #password{
+   border-radius: 10px;
+    height: 50px;
+    width: 350px;
+    margin-left: 15px;
+    margin-top: 10px;
+    background-color: rgba(158, 221, 248, 0.992);
+    text-wrap: flex;
+    text-align: center;
+   
+   }
+ #login{
+   height: 50px;
+   width: 350px;
+   border-radius: 5px;
+   margin-left: 25px;
+   margin-top: 10px;
+   background-color: rgb(6, 125, 245);
+   font-size: 25px;
+   color: aliceblue;
+   text-decoration-color: background-color;
+   transition: 2s;
+ }
+ p{margin: top 0px;
+   margin-left: 35%;
+   color: rgb(44, 44, 244);
+ }
+input::placeholder{
+ text-align: center;
+ padding: left 50px;
+
+}
+u{
+   color: rgb(69, 67, 67);
+
+}
+#account{
+   border: 5px solid greenyellow ;
+   height: 50px;
+   width: 250px;
+   border-radius: 5px;
+   margin-left: 75px;
+   margin-bottom: 5px;
+   background-color: greenyellow;
+
+}
+#down-text{
+   position: absolute;
+   top: 75%;
+   right: 28%;
+}
+
+
